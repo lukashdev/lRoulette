@@ -1,0 +1,239 @@
+"Phrases"
+{
+    "wrong cmd usage"
+    {
+        "pl" "Poprawne użycie komendy: !ru [RED|BLACK|GREEN] [ILOŚĆ]"
+        "en" "Correct command use: !ru [RED|BLACK|GREEN] [VALUE]"
+    }
+    "max credits for normal user and vip"
+    {
+        "#format" "{1:i},{2:i}"
+        "pl" "Jest limit na kredyty na ruletce! Gracz: {1}, VIP {2}."
+        "en" "There is a credit limit for roulette! Player: {1}, VIP {2}."
+    }
+    "player joined to roulette"
+    {
+        "#format" "{1:N},{2:i}"
+        "pl" "Gracz {1} postawił {2} kredytów na ruletce!"
+        "EN" "Player {1} has bet {2} credits on roulette!"
+    }
+    "roulette started"
+    {
+        "pl" "Ruletka wystartowała!"
+        "en" "Roulette has started!"
+    }
+    "roulette time 60"
+    {
+        "pl" "Ruletka będzie aktywna przez następne 60 sekund."
+        "en" "The roulette will be active for the next 60 seconds."
+    }
+    "roulette command"
+    {
+        "pl" "Komenda: !ru [RED|BLACK|GREEN] [ILOŚĆ]"
+        "en" "Command: !ru [RED|BLACK|GREEN] [VALUE]"
+    }
+    "time"
+    {
+        "pl" "Czas"
+        "en" "Time"
+    }
+    "last 45 seconds"
+    {
+        "pl" "Pozostało 45 sekund."
+        "en" "45 seconds remaining."
+    }
+    "last 30 seconds"
+    {
+        "pl" "Pozostało 30 sekund."
+        "en" "30 seconds remaining."
+    }
+    "last 15 seconds"
+    {
+        "pl" "Pozostało 15 sekund."
+        "en" "15 seconds remaining."
+    }
+    "last 3 seconds"
+    {
+        "pl" "Pozostały 3 sekundy."
+        "en" "3 seconds remaining."
+    }
+    "last 2 seconds"
+    {
+        "pl" "Pozostały 2 sekundy."
+        "en" "2 seconds remaining."
+    }
+    "last 1 seconds"
+    {
+        "pl" "Pozostała 1 sekunda."
+        "en" "1 second left."
+    }
+    "start in next 15 seconds"
+    {
+        "pl" "Następna ruletka wystartuje za 15 sekund."
+        "en" "The next roulette will start in 15 seconds."
+    }
+    "no next roulette"
+    {
+        "pl" "Nie będzie już następnej ruletki :("
+        "en" "There will be no more roulette :("
+    }
+    "winner color"
+    {
+        "pl" "Wygrany kolor:"
+        "en" "Wygrany kolor:"
+    }
+    "winner credits"
+    {
+        "#format" "{1:i}"
+        "pl" "Wygrane kredyty: {1}"
+        "en" "Credits Won: {1}"
+    }
+    "loses credits"
+    {
+        "#format" "{1:i}"
+        "pl" "Przegrane kredyty: {1}"
+        "en" "Credits Lost: {1}"
+    }
+    "credits win"
+    {
+        "#format" "{1:i}"
+        "pl" "Wygrałeś {1} kredytów!"
+        "en" "You won {1} credits!"
+    }
+    "display settings"
+    {
+        "pl" "Ustawienia wyświetlania"
+        "en" "Display settings"
+    }
+    "roulette info"
+    {
+        "pl" "Informacje o ruletce"
+        "en" "Roulette info"
+    }
+    "roulette top"
+    {
+        "pl" "Ranking ruletki"
+        "en" "Roulette top"
+    }
+    "last 15 colors"
+    {
+        "pl" "Ostatnie 15 kolorów"
+        "en" "Last 15 colors"
+    }
+    "select display type"
+    {
+        "pl" "Wybierz opcje wyświetlania"
+        "en" "Choose option"
+    }
+    "display on chat"
+    {
+        "pl" "Wyświetlaj na czacie"
+        "en" "Display on chat"
+    }
+    "display on hud"
+    {
+        "pl" "Wyświetlaj w hudzie"
+        "en" "Display on hud"
+    }
+    "disable display"
+    {
+        "pl" "Wyłącz wyświetlanie"
+        "en" "Disable display"
+    }
+    "black chance and multiplier"
+    {
+        "pl" "Szansa na BLACK: 47.5% | Mnożnik: 2X"
+        "en" "Chance BLACK: 47.5% | Multiplier: 2X"
+    }
+    "red chance and multiplier"
+    {
+        "pl" "Szansa na RED: 47.5% | Mnożnik: 2X"
+        "en" "Chance RED: 47.5% | Multiplier: 2X"
+    }
+    "green chance and multiplier"
+    {
+        "pl" "Szansa na GREEN: 5% | Mnożnik: 14X"
+        "en" "Chance GREEN: 5% | Multiplier: 14X"
+    }
+    "roulette command menu"
+    {
+        "pl" "Komenda: !ru [RED|BLACK|GREEN] [ILOŚĆ]"
+        "en" "Command: !ru [RED|BLACK|GREEN] [VALUE]"
+    }
+    "return"
+    {
+        "pl" "Powrót"
+        "en" "Return"
+    }
+    "leave"
+    {
+        "pl" "Wyjdź"
+        "en" "Leave"
+    }
+    "wins"
+    {
+        "pl" "Wygrane"
+        "en" "Wins"
+    }
+    "loses"
+    {
+        "pl" "Przegrane"
+        "en" "Loses"
+    }
+    "credits_won"
+    {
+        "pl" "Wygrane kredyty"
+        "en" "Credits won"
+    }
+    "credits_lost"
+    {
+        "pl" "Przegrane kredyty"
+        "en" "Credits lost"
+    }
+    "red"
+    {
+        "pl" "RED"
+        "en" "RED"
+    }
+    "black"
+    {
+        "pl" "BLACK"
+        "en" "BLACK"
+    }
+    "green"
+    {
+        "pl" "GREEN"
+        "en" "GREEN"
+    }
+    "select action"
+    {
+        "pl" "Wybierz działanie"
+        "en" "Choose action"
+    }
+    "credits pool"
+    {
+        "#format" "{1:i},{2:i},{3:i}"
+        "pl" "BLACK: {1} | RED: {2} | GREEN: {3}"
+        "en" "BLACK: {1} | RED: {2} | GREEN: {3}"
+    }
+    "top wins"
+    {
+        "pl" "Ranking wygranych"
+        "en" "Top wins"
+    }
+    "top loses"
+    {
+        "pl" "Ranking przegranych"
+        "en" "Top loses"
+    }
+    "top credits won"
+    {
+        "pl" "Ranking wygranych kredytów"
+        "en" "Top credits won"
+    }
+    "top credits lost"
+    {
+        "pl" "Ranking przegranych kredytów"
+        "en" "Top credits lost"
+    }
+}
